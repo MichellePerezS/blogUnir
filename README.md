@@ -14,10 +14,6 @@
 - 🔗 **Enlace a GitHub:** Incluye acceso al perfil del creador.
 
 ## Capturas de Pantalla
-
-### Vista Principal
-![Vista Principal](./images/gadgets.jpg)
-
 ### Ejemplo de Artículo
 ![Ejemplo de Artículo](./images/data.jpg)
 
