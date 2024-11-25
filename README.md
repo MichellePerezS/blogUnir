@@ -39,7 +39,7 @@ blogUnir/
    ```bash
    git clone https://github.com/MichellePerezS/blogUnir.git
 
-- Clona este repositorio:
+- Visita:
    ```bash
-   git clone https://github.com/MichellePerezS/blogUnir.git
+   
 
