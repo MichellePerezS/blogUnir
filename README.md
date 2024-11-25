@@ -15,7 +15,7 @@
 
 ## Capturas de Pantalla
 ### Ejemplo de Artículo
-![Ejemplo de Artículo](./images/data.jpg)
+![Ejemplo de Artículo](./images/articulo.png)
 
 ## Estructura del Proyecto
 blogUnir/
@@ -35,6 +35,11 @@ blogUnir/
 
 ## Cómo Visualizar el Proyecto
 
-1. Clona este repositorio:
+- Clona este repositorio:
    ```bash
    git clone https://github.com/MichellePerezS/blogUnir.git
+
+- Clona este repositorio:
+   ```bash
+   git clone https://github.com/MichellePerezS/blogUnir.git
+
